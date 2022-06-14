@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(247,247,247);
+}
+
+.container-propio{
+    margin-top: 25px;
+    max-width: 750px;
+}
+
+.btn-accions{
+    background-color: white;
+    color: black;
+    width: 100%;
+}
+
+.card-color{
+    background-color: black;
+    color: white;
+    border-bottom-right-radius: 35px;
+}
+
+.g-4, .gy-4 {
+    --bs-gutter-y: 0.5rem;
+}
+
+.g-4, .gx-4 {
+    --bs-gutter-x: 5.5rem;
+}
+
+#container-form{
+    display: none;
+    background-color: white
+}
+
+.alinear-centro{
+    text-align: center;
+}
